@@ -1,7 +1,9 @@
-<?php
-	$con = mysqli_connect('localhost','root', 'root','testultimatepos');
-
-	if ($con) {
-		echo "Error";
-	}
-?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>sd</title>
+</head>
+<body>
+	<h1>asdjh</h1>
+</body>
+</html>
